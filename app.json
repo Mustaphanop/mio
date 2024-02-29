@@ -50,7 +50,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/mustaphanop/mi"
+              "url": "https://github.com/mustaphanop/mio"
           }
       ],
       "stack": "container"
